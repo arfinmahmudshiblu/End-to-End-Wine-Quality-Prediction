@@ -1,0 +1,20 @@
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+pymongo==4.10.1
+from_root
+evidently==0.2.8
+dill
+flask
+PyYAML
+neuro_mf
+from-root
+
+-e .
