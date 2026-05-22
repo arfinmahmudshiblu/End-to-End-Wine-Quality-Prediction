@@ -5,9 +5,10 @@ plotly
 seaborn
 scipy
 scikit-learn
+lightgbm
 imblearn
 xgboost
-catboost
+joblib
 pymongo==4.10.1
 from_root
 evidently==0.2.8

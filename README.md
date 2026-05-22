@@ -18,3 +18,4 @@ conda activate cvdev
 ```bash
 pip install -r requirements.txt
 ```
+
